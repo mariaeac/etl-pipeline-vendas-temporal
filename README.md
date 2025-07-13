@@ -34,7 +34,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 1. Clone o repositório:
 
 ```
-git clone https://github.com/mariaeac/etl-pipeline-vendas-tempora
+git clone  https://github.com/mariaeac/etl-pipeline-vendas-temporal.git
 ```
 2. Instale as dependências:
 ```
